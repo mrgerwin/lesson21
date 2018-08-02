@@ -1,7 +1,7 @@
 # lesson21
 ### Documenting your code
 
-###### Documenting your code is very important.  Complete this lesson called "Documenting Code" from raspberrypi.org to learn how to do it automatically.  Then watch the second video "How to host a website on GitHub" until time 5:19 in the video.  You do not need a first class domain.  Once you have uploaded your website, test it and send me a link so that I can grade it.
+###### Documenting your code is very important.  Complete this lesson called ["Documenting Code"](https://projects.raspberrypi.org/en/projects/documenting-your-code) from raspberrypi.org to learn how to do it automatically.  Then watch the second video "How to host a website on GitHub" until time 5:19 in the video.  You do not need a first class domain.  Once you have uploaded your website, test it and send me a link so that I can grade it.
 
 ### Discussion Questions:
 
